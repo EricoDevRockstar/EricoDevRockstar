@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricoDevRockstar
 - 👀 I’m interested in Full-stack WordPress development (Theme & Plugin development as well as WordPress customization)
-- 🌱 I’m currently perfecting/Updating/polishing-up on my PHP, JavaScript and learning Python.
+- 🌱 I’m currently perfecting/Updating/polishing-up on my PHP, JavaScript and learning Python as I continue to look for more challenging WordPress projects.
 - 💞️ I’m looking to collaborate on full-stack WordPress development.
 - 📫 How to reach me ericmwangi0916@gmail.com or eric@datiospecio.com.
 
